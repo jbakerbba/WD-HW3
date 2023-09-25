@@ -1,0 +1,59 @@
+.hero {
+    height: 300px;
+    background-image: url(/images/hero.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    h1 {
+        color: white;
+        width: 500px;
+        margin-left: 300px;
+        padding-top: 50px;
+        font-size: 40px;
+    }
+    p {
+        color: white;
+        width: 400px;
+        margin-left: 300px;
+        margin-top: -30px;
+        margin-bottom: 30px;
+    }
+    span {
+        color: white;
+        width: 400px;
+        margin-left: 300px;
+        padding: 10px 20px;
+        background-color: lightseagreen;
+        border-radius: 8px;
+    }
+}
+
+.breakBar {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    .breakBar-img{
+        height: 200px;
+        width: 200px;
+        background-color: aqua;
+        margin: 0 auto;
+        background-image: url(/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 500px;
+    }
+
+    i {
+        font-size: 20px;
+        color: black;
+        span {
+            font-size: 15px;
+            color: lightseagreen;
+        }
+    }
+      
+}
