@@ -43,7 +43,7 @@ nav a {
 
 .hero {
   height: 300px;
-  background-image: url(/images/hero.jpeg);
+  background-image: url(../images/hero.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -83,7 +83,7 @@ nav a {
   width: 200px;
   background-color: aqua;
   margin: 0 auto;
-  background-image: url(/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpeg);
+  background-image: url(../images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -141,7 +141,7 @@ ul {
   height: 200px;
   width: 200px;
   border-radius: 100px;
-  background-image: url(/images/eimg1.jpeg);
+  background-image: url(../images/eimg1.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -150,7 +150,7 @@ ul {
   height: 200px;
   width: 200px;
   border-radius: 100px;
-  background-image: url(/images/eimg3.jpeg);
+  background-image: url(../images/eimg3.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -159,7 +159,7 @@ ul {
   height: 200px;
   width: 200px;
   border-radius: 100px;
-  background-image: url(/images/eimg2.jpeg);
+  background-image: url(../images/eimg2.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
